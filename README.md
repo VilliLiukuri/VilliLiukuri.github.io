@@ -26,12 +26,10 @@ I am a 25-year-old Information and Communication Technology student at Jyväskyl
 - **Savon ammattiopisto (2014 - 2019)**
   - Lähihoitaja
     - Lapset ja nuoret
-
-## Skills
-- [List any additional skills or technologies relevant to your field]
+    - 
 
 ## Hobbies
-My hobbies include snowboarding, skateboarding, videography, and editing. I'm a member of the Helsinki Snowboarders, where I teach a weekly park class to junior groups. I also assist in planning and building the park at Himos. With 16 years of team sports background in ice hockey, I reached the national team level.
+My hobbies include snowboarding, skateboarding, videography, and editing. I'm a member of the Helsinki Snowboarders, where I teach a weekly park class to junior groups. I also assist in planning and building the park at Himos.
 
 ## Language Proficiency
 I am a native Finnish speaker. Additionally, I am proficient in English, and I have a moderate understanding of Swedish.
@@ -40,6 +38,5 @@ I am a native Finnish speaker. Additionally, I am proficient in English, and I h
 - Location: Alppila, Helsinki
 - Phone: +358 40 7617533
 - Email: wrightfredrik@gmail.com
-- Portfolio: [Link to your portfolio](https://student.labranet.jamk.fi/~AA4500/web_tekniikat/Harjoitusty%c3%b6sivut/)
 
 
