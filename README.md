@@ -35,8 +35,3 @@ My leisure activities include snowboarding, skateboarding, videography, and edit
 
 ## Language Proficiency
 I am a native Finnish speaker, proficient in English, and have a moderate understanding of Swedish.
-
-## Contact Information
-- **Location:** Alppila, Helsinki
-- **Phone:** +358 40 7617533
-- **Email:** wrightfredrik@gmail.com
