@@ -1,24 +1,22 @@
 # Hello! I'm Fredrik Wright
-## A 25-year-old student of Information and Communication Technology at JAMK University of Applied Sciences, currently residing in Helsinki.
+
+## Profile
+I am a 25-year-old Information and Communication Technology student at Jyväskylä University of Applied Sciences, recently relocated to Helsinki. I am also a trained healthcare professional. My technical skills are a result of my studies, complemented by valuable work experience in the healthcare sector.
 
 #### Technical Skills: JavaScript, HTML5, CSS, Python, React, Figma, Adobe Photoshop, Adobe Premiere, Adobe After Effects
 
 ## Education
-- Information and Communication Technology | Jyväskylä University of Applied Sciences (2020 - Present)	
-- M.S., Physics | The University of Texas at Dallas (December 2019)	
+- ICT | JAMK (2020 - Present)	
+- lähihoitaja | Savon ammattiopisto (2014-2019)
 
 ## Work Experience
-**IT Support Trainee @ Helsingin kaupunki • Vammaistyö (5/2023 - 8/2023)**
-- [Describe your responsibilities and achievements]
+**Lähihoitaja @ Helsingin kaupunki • Vammaistyö (5/2023 - 8/2023)**
 
-**IT Support Trainee @ Vaalijalan kuntayhtymä • Vammaistyö (6/2022 - 8/2022)**
-- [Describe your responsibilities and achievements]
+**Lähihoitaja @ Vaalijalan kuntayhtymä • Vammaistyö (6/2022 - 8/2022)**
 
-**Varhaiskasvatuksen IT-tukihenkilö @ Touhula päiväkoti Aarresaari Oy (2019 - 2020)**
-- [Describe your responsibilities and achievements]
+**Varhaiskasvatuksen @ Touhula päiväkoti Aarresaari Oy (2019 - 2020)**
 
 **Henkilökohtainen avustaja @ Varkauden kaupunki (2017 - 2019)**
-- [Describe your responsibilities and achievements]
 
 ## Education
 - **Jyväskylän ammattikorkeakoulu (2020 - Present)**
@@ -44,5 +42,4 @@ I am a native Finnish speaker. Additionally, I am proficient in English, and I h
 - Email: wrightfredrik@gmail.com
 - Portfolio: [Link to your portfolio](https://student.labranet.jamk.fi/~AA4500/web_tekniikat/Harjoitusty%c3%b6sivut/)
 
-## Profile
-I am a 25-year-old Information and Communication Technology student at Jyväskylä University of Applied Sciences, recently relocated to Helsinki. I am also a trained healthcare professional. My technical skills are a result of my studies, complemented by valuable work experience in the healthcare sector.
+
