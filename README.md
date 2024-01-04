@@ -2,7 +2,6 @@
 Hello! I'm Fredrik Wright, a 25-year-old Information and Communication Technology student at Jyväskylä University of Applied Sciences, currently residing in Helsinki. In addition to my academic pursuits, I am a trained healthcare professional, and my technical skills are a blend of my educational background and valuable work experience in the healthcare sector.
 
 ## Technical Skills
-I possess proficiency in the following technologies:
 - JavaScript
 - HTML5
 - CSS
