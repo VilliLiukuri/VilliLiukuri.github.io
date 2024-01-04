@@ -6,7 +6,6 @@ Hello! I'm Fredrik Wright, a 25-year-old Information and Communication Technolog
 - HTML5
 - CSS
 - Python
-- React
 - Figma
 - Adobe Photoshop
 - Adobe Premiere
